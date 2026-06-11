@@ -1,0 +1,3 @@
+[
+  {"id": 1, "query": "Apa gejala demam berdarah?", "expected_domain": "penyakit"}
+]
